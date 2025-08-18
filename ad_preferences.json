@@ -1,0 +1,2099 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Is opted out from seeing ads off Meta",
+      "value": "False"
+    },
+    {
+      "label": "Is the digital advertising alliance opt-out cookie present in any browser",
+      "value": "False"
+    },
+    {
+      "label": "Is opted out of using data about interactions between the user and third-party sites",
+      "value": "False"
+    },
+    {
+      "label": "Added interests",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Removed interests",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Removed categories",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Is opted out of using relationship status to target ads",
+      "value": "False"
+    },
+    {
+      "label": "Is opted out of using religious views to target ads",
+      "value": "True"
+    },
+    {
+      "label": "Is opted out of using interests to target ads",
+      "value": "True"
+    },
+    {
+      "label": "Is opted out of using education information (university, university year, field of study etc.) to target ads",
+      "value": "False"
+    },
+    {
+      "label": "Is opted out of using their employer to target ads",
+      "value": "False"
+    },
+    {
+      "label": "Is opted out of using their job title to target ads",
+      "value": "False"
+    },
+    {
+      "label": "Opted out of using engagement tracking data to target ads",
+      "value": "False"
+    },
+    {
+      "label": "Is opted out of using political views to target ads",
+      "value": "True"
+    },
+    {
+      "label": "Sensitive topics opted out of",
+      "dict": [
+        
+      ]
+    },
+    {
+      "label": "Reported interests",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Datafile custom audience opt-out",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Datafile Custom Audience inclusion opt-out",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Datafile Custom Audience exclusion opt-out",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Is opted out of third-party data at the user level",
+      "value": "False"
+    },
+    {
+      "label": "Third-party opted-in topics",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Received Global Privacy Control (GPC) enable signal from browser settings",
+      "value": "False"
+    },
+    {
+      "label": "User ad topics preferences",
+      "dict": [
+        
+      ]
+    },
+    {
+      "label": "User ad interests preferences",
+      "dict": [
+        
+      ]
+    },
+    {
+      "label": "Sensitive topics opted in to",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Opted-in ad interests",
+      "vec": [
+        
+      ]
+    },
+    {
+      "dict": [
+        
+      ],
+      "title": "Hidden ads"
+    },
+    {
+      "dict": [
+        
+      ],
+      "title": "Hidden advertisers"
+    },
+    {
+      "dict": [
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Flowering plant"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Dresses"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Jaguar Cars"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Woman"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Blanket"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Cosmetics"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Luxury goods"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Shoes"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Food"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Photography"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Party dress"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Aviation"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Short film"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Money"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Nature (science)"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Fiction books"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Happiness"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Agriculture"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Fashion accessories"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "YouTube"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Technology"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "English language"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Organic product"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Reseller"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Test of English as a Foreign Language"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Electric car"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Home shopping"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Skin care"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Clothes Shop"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Wedding dress"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Vegetable"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Nightwear"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Plant nursery"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Automotive industry"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Honda"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Seed company"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Casino"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Universities in the United Kingdom"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Baby food"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Independent film"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Gown"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Huggies"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Vacations"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Used car"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Tree"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Ready-to-wear"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Garden furniture"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Organic food"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Dhaka Division"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Lamborghini"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Bangkok"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Cosmetology"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Outerwear"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Cinema of India"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Life insurance"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Airport"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Pajamas"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Dried meat"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Garden design"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Lexus"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Health club"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Garden tool"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Pampers"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Fashion design"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Gardener"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Street food"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Instagram"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Shopping"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Weddings"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Pillow"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Retail"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Luxury Resorts"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Student"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Marketing"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Advertising"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Aarong"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Real estate"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Entertainment"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Nissan"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Dhaka District"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Study abroad"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Thailand"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Slipper"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Cooking"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Organic horticulture"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "International university"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Video"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Bengali cuisine"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Hybrids"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Kitchen"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Flower"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Textile"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Flower garden"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Farm Fresh Food & Pharmacy"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Mazda"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "International English Language Testing System"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Culinary art"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "University"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Pendant"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Fishing"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Seed"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Business travel"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Ecotourism"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Foodie"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Container garden"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Land Rover"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Bed sheet"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Modest Fashion"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Fitness and wellness"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Inventory"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Range Rover"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Johnson's Baby"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Kia Motors"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Tree house"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Recipes"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Car dealership"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Johnson's Baby"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Gardening Australia"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Hyundai"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Fruit"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Field (agriculture)"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Fine Gardening"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Plug-in hybrid"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Airport lounge"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "School"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Houseplant"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Newspapers"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Urban agriculture"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Landscape architecture"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Construction"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "International student"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Supermarket"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Business class"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Dhaka"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Online shopping"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Celebrity"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Interior design"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Shalwar kameez"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Cushion"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Aquatic plant"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Saudi Arabia"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Anarkali Salwar Suit"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Garden"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "High-heeled footwear"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Cerelac"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "First class travel"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Hybrid electric vehicle"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Toy store"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Cat tree"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "International Test of English Proficiency"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Designer clothing"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Chittagong"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Organic farming"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Bracelet"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Ferrari"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Juicy Fruit"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Luxury vehicle"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Footwear"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Oxford"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Cineplex Entertainment"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Hatchback"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Red Mango"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Necklace"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "BMW"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "British English"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Porsche"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Self care"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Sales"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Infant"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Bedding"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Modernity"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Insurance"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Pension"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Sari"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Air travel"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Top (clothing)"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Children's clothing"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Gardening"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Shopping malls"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "IOS"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Toys"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Boutiques"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Global cuisine"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Baby bottle"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Cineplexx Cinemas"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Chittagong Stock Exchange"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Employers' organization"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Shoppers Drug Mart"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "TOEIC"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Cinema of West Bengal"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Fruit salad"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Mercedes-Benz"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Textile industry"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Study abroad in the United States"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Cotton On"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Marriage"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Sandal"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Bed"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Clothing"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "E-commerce"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Toyota"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Pets"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Beauty salons"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Engineering"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Facebook"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "SUVs"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Audi"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Travel"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Bangladesh"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Dance cover"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "English as a second or foreign language"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Food industry"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Hair products"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "MacBook Pro"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Plant"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Beauty"
+            }
+          ],
+          "title": ""
+        }
+      ],
+      "title": "Ads interests"
+    }
+  ],
+  "fbid": "106505215659328"
+}
