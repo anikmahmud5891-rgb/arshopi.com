@@ -1,0 +1,91 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Name",
+      "vec": [
+        {
+          "value": "Android: 360-degree media supported"
+        },
+        {
+          "value": "Birthday in May"
+        },
+        {
+          "value": "Facebook Lite app users"
+        },
+        {
+          "value": "Facebook access (mobile): Android devices"
+        },
+        {
+          "value": "Facebook access (mobile): all mobile devices"
+        },
+        {
+          "value": "Facebook access (mobile): smartphones and tablets"
+        },
+        {
+          "value": "Facebook access (mobile): tablets"
+        },
+        {
+          "value": "Facebook access (network type): Wi-Fi"
+        },
+        {
+          "value": "Frequent travellers"
+        },
+        {
+          "value": "Friends of football fans"
+        },
+        {
+          "value": "Friends of men with a birthday in 0-7 days"
+        },
+        {
+          "value": "Friends of men with a birthday in 7-30 days"
+        },
+        {
+          "value": "Friends of people who recently moved"
+        },
+        {
+          "value": "Friends of people with birthdays in a month"
+        },
+        {
+          "value": "Friends of people with birthdays in a week"
+        },
+        {
+          "value": "Friends of those who live abroad"
+        },
+        {
+          "value": "Friends of women with a birthday in 0-7 days"
+        },
+        {
+          "value": "Friends of women with a birthday in 7-30 days"
+        },
+        {
+          "value": "Mobile network or device users"
+        },
+        {
+          "value": "New smartphone and tablet users"
+        },
+        {
+          "value": "Owns: VIVO devices"
+        },
+        {
+          "value": "Potential mobile network or device change"
+        },
+        {
+          "value": "Recent mobile network or device change"
+        },
+        {
+          "value": "Recently detected devices"
+        },
+        {
+          "value": "Uses a mobile device (less than 1 month)"
+        },
+        {
+          "value": "Wi-Fi usage"
+        }
+      ]
+    }
+  ],
+  "fbid": "100088995492307"
+}

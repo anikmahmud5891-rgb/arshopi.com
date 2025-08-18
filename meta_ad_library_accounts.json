@@ -1,0 +1,26 @@
+{
+  "timestamp": 1747905541,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Email address",
+      "value": ""
+    },
+    {
+      "label": "Has this email address been confirmed?",
+      "value": "False"
+    },
+    {
+      "label": "Product updates that you have subscribed to",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "How often you get product update emails"
+    }
+  ],
+  "fbid": "713114314602158"
+}
